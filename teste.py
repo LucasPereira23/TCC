@@ -1,1 +1,3 @@
-print("odeio python")
+print("TEU CU")
+
+print("lucas gay")
